@@ -1,5 +1,62 @@
 {
   "schema": "todaywelost-inbox-v1",
   "channel": "@todaywelost",
-  "entries": []
+  "entries": [
+    {
+      "id": "ed1df6c9b5b78efe8711934a56ab8b4cbf80db6a5b0385fd95f1722219e2df66",
+      "created_at": "2026-11-01T20:53:34.047145+00:00",
+      "expires_at": "2026-11-01T21:00:00+00:00",
+      "record": {
+        "name": "Регина Циглер",
+        "occupation": "Немецкая кино- и телепродюсер.",
+        "known_for": "Участвовала в создании более 500 кино- и телепроектов. Удостоена Emmy, Grimme-Preis и Deutscher Filmpreis.",
+        "death_date": "2026-11-01",
+        "region": "Мир",
+        "sources": [
+          {
+            "url": "https://presse.wdr.de/plounge/wdr/programm/2026/11/20261101_regina_ziegler.html"
+          },
+          {
+            "url": "https://www.zdfheute.de/panorama/prominente/regina-ziegler-tot-film-fernsehen-produzentin-100.html"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "source_name": "Regina Ziegler",
+          "origin_type": "organisation",
+          "origin_name": "WDR",
+          "firsthand": true,
+          "biography_supported": true,
+          "quotes": [
+            "Regina Ziegler ist am 1. November in Berlin im Alter von 82 Jahren gestorben.",
+            "WDR-Intendantin Dr. Katrin Vernau: „Mit Regina Ziegler verliert",
+            "dem Emmy Award"
+          ],
+          "death_quote": 0,
+          "date_quote": 0,
+          "origin_quote": 1,
+          "bio_quote": 0,
+          "notability_quote": 2
+        },
+        {
+          "source_name": "Regina Ziegler",
+          "origin_type": "family",
+          "origin_name": "Familie",
+          "firsthand": true,
+          "biography_supported": true,
+          "quotes": [
+            "mitteilen, dass Regina Ziegler heute Morgen, am 1. November, verstorben ist",
+            "erklärten Zieglers Tochter Tanja und das Unternehmen Ziegler Film",
+            "International Emmy"
+          ],
+          "death_quote": 0,
+          "date_quote": 0,
+          "origin_quote": 1,
+          "bio_quote": 0,
+          "notability_quote": 2
+        }
+      ]
+    }
+  ]
 }
