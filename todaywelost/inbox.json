@@ -1,5 +1,23 @@
 {
   "schema": "todaywelost-inbox-v1",
   "channel": "@todaywelost",
-  "entries": []
+  "entries": [
+    {
+      "id": "9a24eecd90d924c35fe9e025c07fae5048a3db3e21415ee67dcb524f66e3743d",
+      "created_at": "2026-11-05T05:39:26.592252+03:00",
+      "expires_at": "2026-11-05T07:39:26.592252+03:00",
+      "record": {
+        "name": "Алан Джонс",
+        "occupation": "Австралийский автогонщик",
+        "known_for": "Чемпион мира «Формулы-1» 1980 года в составе Williams, победитель 12 Гран-при.",
+        "death_date": "2026-11-05",
+        "region": "Мир",
+        "sources": [
+          {
+            "url": "https://www.abc.net.au/news/2026-11-05/australian-motor-racing-icon-alan-jones-dies-aged-80/107350036"
+          }
+        ]
+      }
+    }
+  ]
 }
