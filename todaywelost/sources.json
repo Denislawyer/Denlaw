@@ -22,6 +22,26 @@
       ],
       "basis_url": "https://www.ks-gasteig.de/en/hb-6",
       "reason": "Сайт менеджмента артиста: собственная страница с обозначением General Management, биографией и первоначальным сообщением."
+    },
+    {
+      "domain": "rabbitohs.com.au",
+      "kind": "organisation",
+      "name": "South Sydney Rabbitohs",
+      "aliases": [
+        "South Sydney Rabbitohs"
+      ],
+      "basis_url": "https://www.rabbitohs.com.au/news/-vale-paul-langmack",
+      "reason": "Официальный сайт клуба: лично прочитанное собственное сообщение о его бывшем тренере с явной датой события и биографией."
+    },
+    {
+      "domain": "bulldogs.com.au",
+      "kind": "organisation",
+      "name": "Canterbury-Bankstown Bulldogs",
+      "aliases": [
+        "Canterbury-Bankstown Bulldogs"
+      ],
+      "basis_url": "https://www.bulldogs.com.au/news/2026/11/05/vale-paul-langmack/",
+      "reason": "Официальный сайт клуба: лично прочитанное собственное сообщение о его бывшем игроке, выступлениях и спортивных достижениях."
     }
   ]
 }
