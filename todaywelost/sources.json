@@ -1,0 +1,27 @@
+{
+  "schema": "todaywelost-source-registry-v1",
+  "channel": "@todaywelost",
+  "sources": [
+    {
+      "domain": "ansa.it",
+      "kind": "media",
+      "name": "ANSA",
+      "aliases": [
+        "ANSA"
+      ],
+      "basis_url": "https://www.ansa.it/english/news/2026/11/04/italian-director-tinto-brass-dies-aged-93_d93ebf46-0989-4736-8969-5896249e46b6.html",
+      "reason": "Собственное сообщение агентства с прямым первоначальным подтверждением от семьи; доступен оригинальный редакционный текст."
+    },
+    {
+      "domain": "ks-gasteig.de",
+      "kind": "organisation",
+      "name": "KünstlerSekretariat am Gasteig",
+      "aliases": [
+        "KünstlerSekretariat am Gasteig",
+        "KünstlerSekretariat am Gasteig GmbH"
+      ],
+      "basis_url": "https://www.ks-gasteig.de/en/hb-6",
+      "reason": "Сайт менеджмента артиста: собственная страница с обозначением General Management, биографией и первоначальным сообщением."
+    }
+  ]
+}
