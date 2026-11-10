@@ -3,18 +3,18 @@
   "channel": "@todaywelost",
   "entries": [
     {
-      "id": "1d3934114a08ceea0fd251c68992784f05a06a917def1b6280529adc363e2037",
-      "created_at": "2026-11-05T10:13:05.178408+03:00",
-      "expires_at": "2026-11-05T12:13:05.178408+03:00",
+      "id": "f0d3f847e817e80e0ae7760d0e527ef86b41db1331ca85216cbc7ecbeae8a8ac",
+      "created_at": "2026-11-10T20:13:11.084302+03:00",
+      "expires_at": "2026-11-10T22:13:11.084302+03:00",
       "record": {
-        "name": "Пол Лэнгмак",
-        "occupation": "Австралийский игрок и тренер по регбилиг",
-        "known_for": "Трижды выиграл чемпионат с «Кентербери-Бэнкстаун Буллдогз» (1984, 1985, 1988). В 2003–2004 годах тренировал «Саут Сидней Рэббитоуз».",
-        "death_date": "2026-11-05",
+        "name": "Дай Хенвуд",
+        "occupation": "Новозеландский комик и телеведущий",
+        "known_for": "Участник комедийного телешоу 7 Days, снявшийся более чем в 150 выпусках. Лауреат премии Billy T (2002).",
+        "death_date": "2026-11-10",
         "region": "Мир",
         "sources": [
           {
-            "url": "https://www.rabbitohs.com.au/news/-vale-paul-langmack"
+            "url": "https://au.rollingstone.com/culture/culture-news/beloved-new-zealand-comedian-dai-henwood-dies-aged-48-103193/"
           }
         ]
       }
