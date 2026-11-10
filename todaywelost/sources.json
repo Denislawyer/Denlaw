@@ -42,6 +42,18 @@
       ],
       "basis_url": "https://www.bulldogs.com.au/news/2026/11/05/vale-paul-langmack/",
       "reason": "Официальный сайт клуба: лично прочитанное собственное сообщение о его бывшем игроке, выступлениях и спортивных достижениях."
+    },
+    {
+      "domain": "au.rollingstone.com",
+      "kind": "media",
+      "name": "Rolling Stone Australia",
+      "aliases": [
+        "Rolling Stone Australia",
+        "Rolling Stone AU/NZ",
+        "Rolling Stone"
+      ],
+      "basis_url": "https://au.rollingstone.com/culture/culture-news/beloved-new-zealand-comedian-dai-henwood-dies-aged-48-103193/",
+      "reason": "Лично прочитан оригинальный материал австралийской редакции Rolling Stone, автор Jade Kennedy; в тексте приведено подтверждение менеджмента Notorious Comedy и ссылка на его первоначальное заявление."
     }
   ]
 }
