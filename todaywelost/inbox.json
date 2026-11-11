@@ -3,18 +3,18 @@
   "channel": "@todaywelost",
   "entries": [
     {
-      "id": "f0d3f847e817e80e0ae7760d0e527ef86b41db1331ca85216cbc7ecbeae8a8ac",
-      "created_at": "2026-11-10T20:13:11.084302+03:00",
-      "expires_at": "2026-11-10T22:13:11.084302+03:00",
+      "id": "5a54c83680f49fbb5b5f5c26643e3ad15b7056fa8e44173706388ccbbe7f9d38",
+      "created_at": "2026-11-11T19:44:31.178355+03:00",
+      "expires_at": "2026-11-11T21:44:31.178355+03:00",
       "record": {
-        "name": "Дай Хенвуд",
-        "occupation": "Новозеландский комик и телеведущий",
-        "known_for": "Участник комедийного телешоу 7 Days, снявшийся более чем в 150 выпусках. Лауреат премии Billy T (2002).",
-        "death_date": "2026-11-10",
-        "region": "Мир",
+        "name": "Александр Никитич Дарчиев",
+        "occupation": "Российский дипломат",
+        "known_for": "Чрезвычайный и полномочный посол Российской Федерации в Соединённых Штатах Америки.",
+        "death_date": "2026-11-11",
+        "region": "Россия",
         "sources": [
           {
-            "url": "https://au.rollingstone.com/culture/culture-news/beloved-new-zealand-comedian-dai-henwood-dies-aged-48-103193/"
+            "url": "https://www.interfax.ru/russia/1128402"
           }
         ]
       }
