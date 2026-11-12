@@ -18,6 +18,91 @@
           }
         ]
       }
+    },
+    {
+      "id": "364fdda99b78ad26f1f9c5848f8ffec495d4cff16beba4a04b5239717ea8282c",
+      "created_at": "2026-11-12T23:17:20.182124+03:00",
+      "expires_at": "2026-11-13T00:00:00+03:00",
+      "record": {
+        "name": "Тони Капуоццо",
+        "occupation": "Итальянский журналист и телеведущий",
+        "known_for": "Военный корреспондент Mediaset, бывший заместитель директора Tg5, автор и ведущий программы Terra!.",
+        "death_date": "2026-11-12",
+        "region": "Мир",
+        "sources": [
+          {
+            "url": "https://www.tgcom24.mediaset.it/televisione/toni-capuozzo-morto-giornalista_118299538-202602k.shtml"
+          }
+        ]
+      }
+    },
+    {
+      "id": "edf734deecf73e38415389b4dfd7bd9d224406f7aeaab868f64b8d99fcb488b7",
+      "created_at": "2026-11-12T23:17:20.182124+03:00",
+      "expires_at": "2026-11-13T00:00:00+03:00",
+      "record": {
+        "name": "Жан Пюэш",
+        "occupation": "Французский политик",
+        "known_for": "Бывший министр сельского хозяйства и рыболовства Франции и министр государственной службы; возглавлял совет департамента Аверон.",
+        "death_date": "2026-11-12",
+        "region": "Мир",
+        "sources": [
+          {
+            "url": "https://www.ladepeche.fr/2026/11/12/jean-puech-ancien-ministre-et-figure-politique-de-laveyron-est-mort-a-lage-de-84-ans-13649103.php"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d6a244e4190088bff07f157d369b70e36b7ad557d541885a8263e4077f336d38",
+      "created_at": "2026-11-12T23:17:20.182124+03:00",
+      "expires_at": "2026-11-13T00:00:00+03:00",
+      "record": {
+        "name": "Пьер Беллок",
+        "occupation": "Художник-карикатурист, известный под псевдонимом Peb",
+        "known_for": "Карикатурист Daily Racing Form: его работы публиковались в издании 53 года, до 2008 года.",
+        "death_date": "2026-11-12",
+        "region": "Мир",
+        "sources": [
+          {
+            "url": "https://www.drf.com/news/longtime-drf-cartoonist-pierre-bellocq-peb-dead-99"
+          }
+        ]
+      }
+    },
+    {
+      "id": "604c18fb0accdd646d98dc1a81bbd7cb8fc8dd8e212c219ad34f6f5461ea489e",
+      "created_at": "2026-11-12T23:17:20.182124+03:00",
+      "expires_at": "2026-11-13T00:00:00+03:00",
+      "record": {
+        "name": "Майкл «Майк» Бейэм",
+        "occupation": "Американский политик",
+        "known_for": "Член Палаты представителей штата Луизиана, представлявший приход Сент-Бернард.",
+        "death_date": "2026-11-12",
+        "region": "Мир",
+        "sources": [
+          {
+            "url": "https://www.fox8live.com/2026/11/12/st-bernard-state-representative-passes-away-52-family-says/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "889764d04c339abefa745590e9c25692b5eb4ef2416a769fbc752be0353c8a11",
+      "created_at": "2026-11-12T23:17:20.182124+03:00",
+      "expires_at": "2026-11-13T00:00:00+03:00",
+      "record": {
+        "name": "Хван Чжон Ли",
+        "occupation": "Южнокорейский актёр и мастер боевых искусств",
+        "known_for": "Сыграл с Джеки Чаном в фильмах «Пьяный мастер» и «Змея в тени орла».",
+        "death_date": "2026-11-12",
+        "region": "Мир",
+        "sources": [
+          {
+            "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325460"
+          }
+        ]
+      }
     }
   ]
 }
