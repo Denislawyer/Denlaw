@@ -54,6 +54,67 @@
       ],
       "basis_url": "https://au.rollingstone.com/culture/culture-news/beloved-new-zealand-comedian-dai-henwood-dies-aged-48-103193/",
       "reason": "Лично прочитан оригинальный материал австралийской редакции Rolling Stone, автор Jade Kennedy; в тексте приведено подтверждение менеджмента Notorious Comedy и ссылка на его первоначальное заявление."
+    },
+    {
+      "domain": "tgcom24.mediaset.it",
+      "kind": "organisation",
+      "name": "Mediaset / Tgcom24",
+      "aliases": [
+        "Mediaset",
+        "Tgcom24",
+        "Tgcom 24",
+        "Gruppo Mediaset"
+      ],
+      "basis_url": "https://www.tgcom24.mediaset.it/televisione/toni-capuozzo-morto-giornalista_118299538-202602k.shtml",
+      "reason": "Лично прочитано собственное сообщение редакции группы Mediaset о её многолетнем журналисте Тони Капуоццо. Принадлежность редакции группе указана на странице; биография подтверждена оригиналом, дата смерти дополнительно сверена с Adnkronos."
+    },
+    {
+      "domain": "drf.com",
+      "kind": "organisation",
+      "name": "Daily Racing Form",
+      "aliases": [
+        "Daily Racing Form",
+        "DRF"
+      ],
+      "basis_url": "https://www.drf.com/news/longtime-drf-cartoonist-pierre-bellocq-peb-dead-99",
+      "reason": "Лично прочитано собственное сообщение DRF Staff о многолетнем карикатуристе издания Pierre Bellocq. Указаны смерть в четверг утром в публикации 12 ноября 2026 и 53 года работы для Daily Racing Form."
+    },
+    {
+      "domain": "ladepeche.fr",
+      "kind": "media",
+      "name": "La Dépêche du Midi",
+      "aliases": [
+        "La Dépêche du Midi",
+        "La Dépêche",
+        "LaDepeche.fr"
+      ],
+      "basis_url": "https://www.ladepeche.fr/2026/11/12/jean-puech-ancien-ministre-et-figure-politique-de-laveyron-est-mort-a-lage-de-84-ans-13649103.php",
+      "reason": "Лично прочитан оригинальный материал региональной редакции о Jean Puech с явной датой смерти 12 ноября 2026 и биографией. Сообщение супруги агентству AFP отдельно сверено по L’Internaute; независимость перепечаток не заявляется."
+    },
+    {
+      "domain": "fox8live.com",
+      "kind": "media",
+      "name": "WVUE FOX 8",
+      "aliases": [
+        "WVUE",
+        "FOX 8",
+        "WVUE FOX 8",
+        "Fox 8"
+      ],
+      "basis_url": "https://www.fox8live.com/2026/11/12/st-bernard-state-representative-passes-away-52-family-says/",
+      "reason": "Лично прочитан оригинал журналиста Cecilia Calderin в WVUE: сообщение семьи Michael Bayham и дословное заявление губернатора Jeff Landry о смерти рано утром 12 ноября. Сайт идентифицирует редакцию WVUE и Gray Local Media."
+    },
+    {
+      "domain": "stnsports.co.kr",
+      "kind": "media",
+      "name": "STN NEWS",
+      "aliases": [
+        "STN NEWS",
+        "STN뉴스",
+        "STN News"
+      ],
+      "basis_url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325460",
+      "reason": "Лично прочитан оригинал STN뉴스 журналиста 오영미: организация Hwang Jang-lee сообщает о смерти 12 ноября 2026, названы известные фильмы. Редакционная принадлежность STN NEWS указана в подписи и выходных данных."
     }
   ]
 }
