@@ -137,6 +137,23 @@
           }
         ]
       }
+    },
+    {
+      "id": "0651701effc9826894465aaa5f3ebe6135f431c717009f49640fbe40a8f2831e",
+      "created_at": "2026-11-13T20:16:03.603526+03:00",
+      "expires_at": "2026-11-13T22:16:03.603526+03:00",
+      "record": {
+        "name": "Захиди Зайнул Абидин",
+        "occupation": "Малайзийский политик",
+        "known_for": "Бывший заместитель министра связи и мультимедиа Малайзии (2020–2022); депутат парламента от Паданг-Бесара в 2013–2022 годах.",
+        "death_date": "2026-11-13",
+        "region": "Мир",
+        "sources": [
+          {
+            "url": "https://www.sinarharian.com.my/article/804468/berita/semasa/bekas-timbalan-menteri-komunikasi-dan-multimedia-zahidi-meninggal-dunia"
+          }
+        ]
+      }
     }
   ]
 }
