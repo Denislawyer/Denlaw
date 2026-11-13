@@ -171,6 +171,23 @@
           }
         ]
       }
+    },
+    {
+      "id": "c6a5a5341de2761bac3f7706541429752979ec4a6e4aecdd4b0ed90bfca6591a",
+      "created_at": "2026-11-13T23:51:06.622695+03:00",
+      "expires_at": "2026-11-14T00:00:00+03:00",
+      "record": {
+        "name": "Нельсон Шваб III",
+        "occupation": "Американский предприниматель и инвестор",
+        "known_for": "Сооснователь инвестиционной компании Carousel Capital; бывший председатель совета директоров и генеральный директор Paramount Parks.",
+        "death_date": "2026-11-13",
+        "region": "Мир",
+        "sources": [
+          {
+            "url": "https://kennethpoeservices.com/obituaries/2562-nelson-schwab-iii"
+          }
+        ]
+      }
     }
   ]
 }
