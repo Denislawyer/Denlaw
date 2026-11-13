@@ -154,6 +154,23 @@
           }
         ]
       }
+    },
+    {
+      "id": "dc976e028fa33c025b056df5cf5490e2a0a5033c969ff67c92a72f09bd97ac3d",
+      "created_at": "2026-11-13T21:41:34.287663+03:00",
+      "expires_at": "2026-11-13T23:41:34.287663+03:00",
+      "record": {
+        "name": "Питер Энтони Моран",
+        "occupation": "Шотландский католический епископ",
+        "known_for": "Возглавлял епархию Абердина в 2003–2011 годах; преподавал в семинарии Blairs College с 1964 по 1986 год.",
+        "death_date": "2026-11-13",
+        "region": "Мир",
+        "sources": [
+          {
+            "url": "https://www.rcda.scot/diocese-of-aberdeen-announces-death-of-bishop-emeritus-peter-moran/"
+          }
+        ]
+      }
     }
   ]
 }
