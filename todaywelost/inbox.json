@@ -205,6 +205,23 @@
           }
         ]
       }
+    },
+    {
+      "id": "79ccc6c4881750bc5a956bbaf5ee94ac372612a1130585fd4ed8c7897999ba64",
+      "created_at": "2026-11-14T22:22:46.564359+03:00",
+      "expires_at": "2026-11-15T00:00:00+03:00",
+      "record": {
+        "name": "Абдель-Кадер Герза",
+        "occupation": "Французский политик и государственный служащий",
+        "known_for": "Мэр города Дрё с марта 2026 года; ранее — супрефект округа Дрё.",
+        "death_date": "2026-11-14",
+        "region": "Мир",
+        "sources": [
+          {
+            "url": "https://www.intensite.net/deces-d-abdel-kader-guerza-maire-de-dreux-a-l-age-de-69-ans"
+          }
+        ]
+      }
     }
   ]
 }
