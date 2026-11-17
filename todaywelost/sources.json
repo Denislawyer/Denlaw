@@ -194,6 +194,18 @@
       ],
       "basis_url": "https://kvnews.ru/news-feed/umer-byvshiy-glava-kolosovskogo-rayona-omskoy-oblasti",
       "reason": "Лично прочитан оригинал Яны Турновой с сообщением администрации Колосовского района о смерти Сергея Высоцкого 17 ноября 2026 и полной биографией. Принадлежность сетевого издания ООО Издательский дом «КВ» проверена по выходным данным сайта."
+    },
+    {
+      "domain": "parsi.euronews.com",
+      "kind": "media",
+      "name": "Euronews Persian",
+      "aliases": [
+        "Euronews",
+        "Euronews Persian",
+        "یورونیوز فارسی"
+      ],
+      "basis_url": "https://parsi.euronews.com/2026/11/17/hossein-vahid-khorasani-dies-disagreements-ali-khamenei",
+      "reason": "Лично прочитан оригинал персидской редакции Euronews: смерть Хусейна Вахида Хорасани прямо датирована 17 ноября 2026, указано первоначальное заявление его канцелярии и биография. Принадлежность языковой редакции Euronews проверена по странице About."
     }
   ]
 }
