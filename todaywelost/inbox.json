@@ -3,23 +3,6 @@
   "channel": "@todaywelost",
   "entries": [
     {
-      "id": "364fdda99b78ad26f1f9c5848f8ffec495d4cff16beba4a04b5239717ea8282c",
-      "created_at": "2026-11-12T23:17:20.182124+03:00",
-      "expires_at": "2026-11-13T00:00:00+03:00",
-      "record": {
-        "name": "Тони Капуоццо",
-        "occupation": "Итальянский журналист и телеведущий",
-        "known_for": "Военный корреспондент Mediaset, бывший заместитель директора Tg5, автор и ведущий программы Terra!.",
-        "death_date": "2026-11-12",
-        "region": "Мир",
-        "sources": [
-          {
-            "url": "https://www.tgcom24.mediaset.it/televisione/toni-capuozzo-morto-giornalista_118299538-202602k.shtml"
-          }
-        ]
-      }
-    },
-    {
       "id": "edf734deecf73e38415389b4dfd7bd9d224406f7aeaab868f64b8d99fcb488b7",
       "created_at": "2026-11-12T23:17:20.182124+03:00",
       "expires_at": "2026-11-13T00:00:00+03:00",
@@ -338,6 +321,23 @@
         "sources": [
           {
             "url": "https://entrevue.fr/politique/mort-de-david-habib-a-65-ans-vingt-quatre-annees-de-vie-parlementaire/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c565e885e8774e8660407fde7df67c58b417a911b1e30748fab7a1f382e82608",
+      "created_at": "2026-11-19T22:19:43.391858+03:00",
+      "expires_at": "2026-11-20T00:00:00+03:00",
+      "record": {
+        "name": "Михаил Иванович Клеандров",
+        "occupation": "Российский учёный-правовед, член-корреспондент РАН",
+        "known_for": "Судья Конституционного суда России в феврале 2003 — августе 2016 года; главный научный сотрудник Института государства и права РАН, исследователь судебной власти и статуса судей.",
+        "death_date": "2026-11-19",
+        "region": "Россия",
+        "sources": [
+          {
+            "url": "https://news.ru/society/umer-byvshij-sudya-konstitucionnogo-suda"
           }
         ]
       }
