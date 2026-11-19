@@ -3,23 +3,6 @@
   "channel": "@todaywelost",
   "entries": [
     {
-      "id": "5a54c83680f49fbb5b5f5c26643e3ad15b7056fa8e44173706388ccbbe7f9d38",
-      "created_at": "2026-11-11T19:44:31.178355+03:00",
-      "expires_at": "2026-11-11T21:44:31.178355+03:00",
-      "record": {
-        "name": "Александр Никитич Дарчиев",
-        "occupation": "Российский дипломат",
-        "known_for": "Чрезвычайный и полномочный посол Российской Федерации в Соединённых Штатах Америки.",
-        "death_date": "2026-11-11",
-        "region": "Россия",
-        "sources": [
-          {
-            "url": "https://www.interfax.ru/russia/1128402"
-          }
-        ]
-      }
-    },
-    {
       "id": "364fdda99b78ad26f1f9c5848f8ffec495d4cff16beba4a04b5239717ea8282c",
       "created_at": "2026-11-12T23:17:20.182124+03:00",
       "expires_at": "2026-11-13T00:00:00+03:00",
@@ -338,6 +321,23 @@
         "sources": [
           {
             "url": "https://www.repubblica.it/cultura/2026/11/19/diretta/morto_corrado_augias_oggi-425734546/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "70c524fe208ea97a48243c1323d4136668de28ec4999a190c46fc81158d10846",
+      "created_at": "2026-11-19T20:16:41.045538+03:00",
+      "expires_at": "2026-11-19T22:16:41.045538+03:00",
+      "record": {
+        "name": "Давид Абиб (David Habib)",
+        "occupation": "Французский политик",
+        "known_for": "Депутат Национального собрания Франции от департамента Атлантические Пиренеи с 2002 года; вице-председатель собрания в 2015–2017 и 2019–2022 годах, мэр Муренкса в 1995–2014 годах.",
+        "death_date": "2026-11-19",
+        "region": "Мир",
+        "sources": [
+          {
+            "url": "https://entrevue.fr/politique/mort-de-david-habib-a-65-ans-vingt-quatre-annees-de-vie-parlementaire/"
           }
         ]
       }
