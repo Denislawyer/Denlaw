@@ -263,6 +263,17 @@
       ],
       "basis_url": "https://entrevue.fr/politique/mort-de-david-habib-a-65-ans-vingt-quatre-annees-de-vie-parlementaire/",
       "reason": "Лично прочитан подписанный оригинал Radouan Kourak с явной датой смерти David Habib 19 ноября 2026 и биографией. Первоначальное заявление председателя Национального собрания сверено по оригиналу LCP; редакция, директор и контакты указаны в выходных данных Entrevue."
+    },
+    {
+      "domain": "news.ru",
+      "kind": "media",
+      "name": "NEWS.ru",
+      "aliases": [
+        "NEWS.ru",
+        "NEWS"
+      ],
+      "basis_url": "https://news.ru/society/umer-byvshij-sudya-konstitucionnogo-suda",
+      "reason": "Лично прочитан редакционный оригинал с датой смерти Михаила Ивановича Клеандрова 19 ноября 2026 и ссылкой на первоначальное заявление ИГП РАН. Принадлежность NEWS.ru ООО «МЕДИА ЛАБ» проверена по выходным данным страницы."
     }
   ]
 }
