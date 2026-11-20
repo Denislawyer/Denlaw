@@ -3,23 +3,6 @@
   "channel": "@todaywelost",
   "entries": [
     {
-      "id": "edf734deecf73e38415389b4dfd7bd9d224406f7aeaab868f64b8d99fcb488b7",
-      "created_at": "2026-11-12T23:17:20.182124+03:00",
-      "expires_at": "2026-11-13T00:00:00+03:00",
-      "record": {
-        "name": "Жан Пюэш",
-        "occupation": "Французский политик",
-        "known_for": "Бывший министр сельского хозяйства и рыболовства Франции и министр государственной службы; возглавлял совет департамента Аверон.",
-        "death_date": "2026-11-12",
-        "region": "Мир",
-        "sources": [
-          {
-            "url": "https://www.ladepeche.fr/2026/11/12/jean-puech-ancien-ministre-et-figure-politique-de-laveyron-est-mort-a-lage-de-84-ans-13649103.php"
-          }
-        ]
-      }
-    },
-    {
       "id": "d6a244e4190088bff07f157d369b70e36b7ad557d541885a8263e4077f336d38",
       "created_at": "2026-11-12T23:17:20.182124+03:00",
       "expires_at": "2026-11-13T00:00:00+03:00",
@@ -338,6 +321,23 @@
         "sources": [
           {
             "url": "https://news.ru/society/umer-byvshij-sudya-konstitucionnogo-suda"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1bcfb9f613b4033a118b674a034d0284b10072f05d98f8c668910bb455f8fd4d",
+      "created_at": "2026-11-20T10:02:28.790966+03:00",
+      "expires_at": "2026-11-20T12:02:28.790966+03:00",
+      "record": {
+        "name": "Герберт Моралес",
+        "occupation": "Музыкант, один из основателей российского регги",
+        "known_for": "Один из основателей российского музыкального коллектива Jah Division, исполняющего музыку в жанре регги.",
+        "death_date": "2026-11-20",
+        "region": "Россия",
+        "sources": [
+          {
+            "url": "https://tass.ru/kultura/28338247"
           }
         ]
       }
