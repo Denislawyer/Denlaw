@@ -296,6 +296,17 @@
       ],
       "basis_url": "https://www.sentinelassam.com/north-east-india-news/assam-news/manipur-bjp-mla-sapam-kunjakeswor-singh-dies-at-67-in-delhi",
       "reason": "Лично прочитан оригинал с явной датой смерти Sapam Kunjakeswor Singh 20 ноября 2026, биографией и заявлением главы Манипура. Принадлежность редакции The Sentinel проверена по About Us."
+    },
+    {
+      "domain": "itv.com",
+      "kind": "media",
+      "name": "ITV News / UTV",
+      "aliases": [
+        "ITV News",
+        "UTV"
+      ],
+      "basis_url": "https://www.itv.com/news/utv/2026-11-20/irish-league-legend-roy-coyle-dies",
+      "reason": "Лично прочитан оригинал UTV от 20 ноября 2026 с явным died today, биографией Roy Coyle и заявлениями Glentoran и Linfield. Принадлежность ITV Consumer Limited подтверждена выходными данными."
     }
   ]
 }
