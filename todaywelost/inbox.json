@@ -3,23 +3,6 @@
   "channel": "@todaywelost",
   "entries": [
     {
-      "id": "889764d04c339abefa745590e9c25692b5eb4ef2416a769fbc752be0353c8a11",
-      "created_at": "2026-11-12T23:17:20.182124+03:00",
-      "expires_at": "2026-11-13T00:00:00+03:00",
-      "record": {
-        "name": "Хван Чжон Ли",
-        "occupation": "Южнокорейский актёр и мастер боевых искусств",
-        "known_for": "Сыграл с Джеки Чаном в фильмах «Пьяный мастер» и «Змея в тени орла».",
-        "death_date": "2026-11-12",
-        "region": "Мир",
-        "sources": [
-          {
-            "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325460"
-          }
-        ]
-      }
-    },
-    {
       "id": "6c35dd79c0a05184864765ed689516dd9c737717f3e7794dfc4a6c716fb640e8",
       "created_at": "2026-11-13T14:18:25.320750+03:00",
       "expires_at": "2026-11-13T16:18:25.320750+03:00",
@@ -338,6 +321,23 @@
         "sources": [
           {
             "url": "https://www.sentinelassam.com/north-east-india-news/assam-news/manipur-bjp-mla-sapam-kunjakeswor-singh-dies-at-67-in-delhi"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e9b9dadb4aa99aaac9174c4fc86ce5b3b7e4d356c8e689e49ba26bf3e4b8c1a5",
+      "created_at": "2026-11-20T18:25:19.959760+03:00",
+      "expires_at": "2026-11-20T20:25:19.959760+03:00",
+      "record": {
+        "name": "Алла Васильевна Еременко",
+        "occupation": "Российский педагог и государственный деятель",
+        "known_for": "Возглавила министерство народного образования Удмуртской АССР в 1991 году; руководила разработкой законов республики в области науки, образования, культуры и молодёжной политики.",
+        "death_date": "2026-11-20",
+        "region": "Россия",
+        "sources": [
+          {
+            "url": "https://www.kommersant.ru/doc/9126378"
           }
         ]
       }
