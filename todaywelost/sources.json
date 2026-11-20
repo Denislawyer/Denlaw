@@ -274,6 +274,28 @@
       ],
       "basis_url": "https://news.ru/society/umer-byvshij-sudya-konstitucionnogo-suda",
       "reason": "Лично прочитан редакционный оригинал с датой смерти Михаила Ивановича Клеандрова 19 ноября 2026 и ссылкой на первоначальное заявление ИГП РАН. Принадлежность NEWS.ru ООО «МЕДИА ЛАБ» проверена по выходным данным страницы."
+    },
+    {
+      "domain": "tribuneindia.com",
+      "kind": "media",
+      "name": "The Tribune",
+      "aliases": [
+        "The Tribune",
+        "Tribune News Service"
+      ],
+      "basis_url": "https://www.tribuneindia.com/news/haryana/4-time-haryana-congress-mla-phool-chand-mullana-passes-away/amp/",
+      "reason": "Лично прочитан оригинал Nitish Sharma с датой смерти 20 ноября и подтверждениями партийного представителя и сына Phool Chand Mullana. Принадлежность The Tribune Trust указана в выходных данных."
+    },
+    {
+      "domain": "sentinelassam.com",
+      "kind": "media",
+      "name": "The Sentinel",
+      "aliases": [
+        "The Sentinel",
+        "Sentinel Assam"
+      ],
+      "basis_url": "https://www.sentinelassam.com/north-east-india-news/assam-news/manipur-bjp-mla-sapam-kunjakeswor-singh-dies-at-67-in-delhi",
+      "reason": "Лично прочитан оригинал с явной датой смерти Sapam Kunjakeswor Singh 20 ноября 2026, биографией и заявлением главы Манипура. Принадлежность редакции The Sentinel проверена по About Us."
     }
   ]
 }
