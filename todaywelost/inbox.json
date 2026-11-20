@@ -3,23 +3,6 @@
   "channel": "@todaywelost",
   "entries": [
     {
-      "id": "d6a244e4190088bff07f157d369b70e36b7ad557d541885a8263e4077f336d38",
-      "created_at": "2026-11-12T23:17:20.182124+03:00",
-      "expires_at": "2026-11-13T00:00:00+03:00",
-      "record": {
-        "name": "Пьер Беллок",
-        "occupation": "Художник-карикатурист, известный под псевдонимом Peb",
-        "known_for": "Карикатурист Daily Racing Form: его работы публиковались в издании 53 года, до 2008 года.",
-        "death_date": "2026-11-12",
-        "region": "Мир",
-        "sources": [
-          {
-            "url": "https://www.drf.com/news/longtime-drf-cartoonist-pierre-bellocq-peb-dead-99"
-          }
-        ]
-      }
-    },
-    {
       "id": "604c18fb0accdd646d98dc1a81bbd7cb8fc8dd8e212c219ad34f6f5461ea489e",
       "created_at": "2026-11-12T23:17:20.182124+03:00",
       "expires_at": "2026-11-13T00:00:00+03:00",
@@ -338,6 +321,23 @@
         "sources": [
           {
             "url": "https://tass.ru/kultura/28338247"
+          }
+        ]
+      }
+    },
+    {
+      "id": "baceb8942fbe8339d670e37a211b227e7a223cd75bb7510ee1a4eb9ab0cfbb73",
+      "created_at": "2026-11-20T18:24:20.329286+03:00",
+      "expires_at": "2026-11-20T20:24:20.329286+03:00",
+      "record": {
+        "name": "Пхул Чанд Муллана (Phool Chand Mullana)",
+        "occupation": "Индийский политик",
+        "known_for": "Четырежды избирался депутатом законодательного собрания штата Харьяна от округа Муллана; занимал посты министра штата и председателя регионального отделения Индийского национального конгресса.",
+        "death_date": "2026-11-20",
+        "region": "Мир",
+        "sources": [
+          {
+            "url": "https://www.tribuneindia.com/news/haryana/4-time-haryana-congress-mla-phool-chand-mullana-passes-away/amp/"
           }
         ]
       }
