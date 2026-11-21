@@ -337,6 +337,29 @@
       ],
       "basis_url": "https://ansabrasil.com.br/brasil/noticias/moda_e_sociedade/2026/11/21/presidente-da-marca-de-luxo-bulgari-morre-aos-89-anos-na-italia_a54f831e-b779-42df-ae4e-dea5a8944a45.html",
       "reason": "Бразильская редакция ANSA опубликовала сообщение семьи Паоло Булгари с датой его смерти и сведениями о работе в ювелирном доме Bulgari."
+    },
+    {
+      "domain": "africaguinee.com",
+      "kind": "media",
+      "name": "Africa Guinee",
+      "aliases": [
+        "Africa Guinee",
+        "Africaguinee.com",
+        "Africa Guinée"
+      ],
+      "basis_url": "https://www.africaguinee.com/football-guineen-en-deuil-deces-a-conakry-dibrahima-sory-keita-petit-sory-legende-du-hafia-fc/",
+      "reason": "Редакция Africaguinee в Конакри получила от представителя Федерации футбола Гвинеи подтверждение смерти Ибрахимы Сори Кейта 21 ноября 2026 года."
+    },
+    {
+      "domain": "africasport.org",
+      "kind": "media",
+      "name": "Africasport",
+      "aliases": [
+        "Africasport",
+        "Africasport.org"
+      ],
+      "basis_url": "https://africasport.org/page-noire-petit-sory-hafia-77-est-decede-a-conakry/",
+      "reason": "Гвинейский спортивный журналист Хамиду Бангура получил для Africasport подтверждение смерти Ибрахимы Сори Кейта от члена семьи футболиста."
     }
   ]
 }
