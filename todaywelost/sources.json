@@ -372,6 +372,18 @@
       ],
       "basis_url": "https://iqna.ir/fa/news/4391029/%D9%BE%D8%B1%D9%88%D9%81%D8%B3%D9%88%D8%B1-%D9%85%D9%87%D8%AF%DB%8C-%DA%AF%D9%84%D8%B4%D9%86%DB%8C-%D9%BE%DB%8C%D8%B4%DA%AF%D8%A7%D9%85-%DA%AF%D9%81%D8%AA-%D9%88%DA%AF%D9%88%DB%8C-%D8%B9%D9%84%D9%85-%D9%88-%D8%AF%DB%8C%D9%86-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1%DA%AF%D8%B0%D8%B4%D8%AA",
       "reason": "Корреспонденту IQNA о смерти иранского физика Мехди Голшани сообщил его коллега Сейед Хосейн Эмами. В оригинале указаны день смерти и основание отделения философии науки в университете Шарифа."
+    },
+    {
+      "domain": "theguardian.com",
+      "kind": "media",
+      "name": "The Guardian",
+      "aliases": [
+        "The Guardian",
+        "Guardian",
+        "Гардиан"
+      ],
+      "basis_url": "https://www.theguardian.com/tv-and-radio/2026/nov/21/peter-fluck-caricaturist-puppeteer-co-created-spitting-image-dies-aged-85",
+      "reason": "Редакция цитирует заявление семьи Питера Флака, указывает BBC как источник сведений о дате смерти и приводит собственное интервью с художником."
     }
   ]
 }
