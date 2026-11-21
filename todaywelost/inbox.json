@@ -3,23 +3,6 @@
   "channel": "@todaywelost",
   "entries": [
     {
-      "id": "c6a5a5341de2761bac3f7706541429752979ec4a6e4aecdd4b0ed90bfca6591a",
-      "created_at": "2026-11-13T23:51:06.622695+03:00",
-      "expires_at": "2026-11-14T00:00:00+03:00",
-      "record": {
-        "name": "Нельсон Шваб III",
-        "occupation": "Американский предприниматель и инвестор",
-        "known_for": "Сооснователь инвестиционной компании Carousel Capital; бывший председатель совета директоров и генеральный директор Paramount Parks.",
-        "death_date": "2026-11-13",
-        "region": "Мир",
-        "sources": [
-          {
-            "url": "https://kennethpoeservices.com/obituaries/2562-nelson-schwab-iii"
-          }
-        ]
-      }
-    },
-    {
       "id": "7271ce37a7a6c97acf2df5447b0161174d26cc7d8c26725ff43574b5b85119b8",
       "created_at": "2026-11-14T18:00:37.353677+03:00",
       "expires_at": "2026-11-14T20:00:37.353677+03:00",
@@ -338,6 +321,26 @@
         "sources": [
           {
             "url": "https://ansabrasil.com.br/brasil/noticias/moda_e_sociedade/2026/11/21/presidente-da-marca-de-luxo-bulgari-morre-aos-89-anos-na-italia_a54f831e-b779-42df-ae4e-dea5a8944a45.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5f0beb081753ac3068cd302097192f5c49e0556971d50df5a6b7f2efc5b263ed",
+      "created_at": "2026-11-21T19:56:51+03:00",
+      "expires_at": "2026-11-21T21:56:51+03:00",
+      "record": {
+        "name": "Ибрахима Сори Кейта (Ibrahima Sory Keita)",
+        "occupation": "Гвинейский футболист, нападающий сборной Гвинеи",
+        "known_for": "В составе клуба «Хафия» из Конакри выиграл Кубок африканских чемпионов в 1972, 1975 и 1977 годах. Выступал за Гвинею на Олимпийских играх 1968 года в Мехико.",
+        "death_date": "2026-11-21",
+        "region": "Мир",
+        "sources": [
+          {
+            "url": "https://www.africaguinee.com/football-guineen-en-deuil-deces-a-conakry-dibrahima-sory-keita-petit-sory-legende-du-hafia-fc/"
+          },
+          {
+            "url": "https://africasport.org/page-noire-petit-sory-hafia-77-est-decede-a-conakry/"
           }
         ]
       }
