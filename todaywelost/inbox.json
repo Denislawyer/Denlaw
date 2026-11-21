@@ -3,23 +3,6 @@
   "channel": "@todaywelost",
   "entries": [
     {
-      "id": "dc976e028fa33c025b056df5cf5490e2a0a5033c969ff67c92a72f09bd97ac3d",
-      "created_at": "2026-11-13T21:41:34.287663+03:00",
-      "expires_at": "2026-11-13T23:41:34.287663+03:00",
-      "record": {
-        "name": "Питер Энтони Моран",
-        "occupation": "Шотландский католический епископ",
-        "known_for": "Возглавлял епархию Абердина в 2003–2011 годах; преподавал в семинарии Blairs College с 1964 по 1986 год.",
-        "death_date": "2026-11-13",
-        "region": "Мир",
-        "sources": [
-          {
-            "url": "https://www.rcda.scot/diocese-of-aberdeen-announces-death-of-bishop-emeritus-peter-moran/"
-          }
-        ]
-      }
-    },
-    {
       "id": "c6a5a5341de2761bac3f7706541429752979ec4a6e4aecdd4b0ed90bfca6591a",
       "created_at": "2026-11-13T23:51:06.622695+03:00",
       "expires_at": "2026-11-14T00:00:00+03:00",
@@ -338,6 +321,23 @@
         "sources": [
           {
             "url": "https://kstnews.kz/ushel-iz-zhizni-zasluzhennyj-trener-kazahstana-po-boksu-vladimir-shajrer/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5e55297221816da3b7f1d70866117e96d09ccd5568d564b313543bf5d6cd4cbb",
+      "created_at": "2026-11-21T16:59:21.965854+03:00",
+      "expires_at": "2026-11-21T18:59:21.965854+03:00",
+      "record": {
+        "name": "Паоло Булгари",
+        "occupation": "Итальянский ювелир и предприниматель",
+        "known_for": "В 1984 году возглавил совет директоров ювелирного дома Bulgari, основанного его дедом Сотирио Булгари.",
+        "death_date": "2026-11-21",
+        "region": "Мир",
+        "sources": [
+          {
+            "url": "https://ansabrasil.com.br/brasil/noticias/moda_e_sociedade/2026/11/21/presidente-da-marca-de-luxo-bulgari-morre-aos-89-anos-na-italia_a54f831e-b779-42df-ae4e-dea5a8944a45.html"
           }
         ]
       }
