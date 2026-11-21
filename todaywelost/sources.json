@@ -307,6 +307,17 @@
       ],
       "basis_url": "https://www.itv.com/news/utv/2026-11-20/irish-league-legend-roy-coyle-dies",
       "reason": "Лично прочитан оригинал UTV от 20 ноября 2026 с явным died today, биографией Roy Coyle и заявлениями Glentoran и Linfield. Принадлежность ITV Consumer Limited подтверждена выходными данными."
+    },
+    {
+      "domain": "chelny-izvest.ru",
+      "kind": "media",
+      "name": "Челнинские известия",
+      "aliases": [
+        "Челнинские известия",
+        "ЧИ"
+      ],
+      "basis_url": "https://chelny-izvest.ru/news/facts/v-celnax-skoncalsia-glava-upravleniia-obshhestvennogo-poriadka",
+      "reason": "Лично прочитан оригинал от 21 ноября 2026 с явной датой смерти Мудариса Минегалиева, биографией и сообщением коллег и руководства города. Принадлежность редакции АО «ТАТМЕДИА» подтверждена выходными данными сайта."
     }
   ]
 }
