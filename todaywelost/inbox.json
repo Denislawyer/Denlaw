@@ -3,23 +3,6 @@
   "channel": "@todaywelost",
   "entries": [
     {
-      "id": "79ccc6c4881750bc5a956bbaf5ee94ac372612a1130585fd4ed8c7897999ba64",
-      "created_at": "2026-11-14T22:22:46.564359+03:00",
-      "expires_at": "2026-11-15T00:00:00+03:00",
-      "record": {
-        "name": "Абдель-Кадер Герза",
-        "occupation": "Французский политик и государственный служащий",
-        "known_for": "Мэр города Дрё с марта 2026 года; ранее — супрефект округа Дрё.",
-        "death_date": "2026-11-14",
-        "region": "Мир",
-        "sources": [
-          {
-            "url": "https://www.intensite.net/deces-d-abdel-kader-guerza-maire-de-dreux-a-l-age-de-69-ans"
-          }
-        ]
-      }
-    },
-    {
       "id": "0416a9cbd91b7eda8ba361cd34438d076927784ecefba9e1608a4ce8a925c85e",
       "created_at": "2026-11-16T14:16:55.715828+03:00",
       "expires_at": "2026-11-16T16:16:55.715828+03:00",
@@ -341,6 +324,23 @@
         "sources": [
           {
             "url": "https://iqna.ir/fa/news/4391029/%D9%BE%D8%B1%D9%88%D9%81%D8%B3%D9%88%D8%B1-%D9%85%D9%87%D8%AF%DB%8C-%DA%AF%D9%84%D8%B4%D9%86%DB%8C-%D9%BE%DB%8C%D8%B4%DA%AF%D8%A7%D9%85-%DA%AF%D9%81%D8%AA-%D9%88%DA%AF%D9%88%DB%8C-%D8%B9%D9%84%D9%85-%D9%88-%D8%AF%DB%8C%D9%86-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1%DA%AF%D8%B0%D8%B4%D8%AA"
+          }
+        ]
+      }
+    },
+    {
+      "id": "62919a5628addf4a27391f0100e1f9eeef02eb17bac22bb611c762c41f0dd336",
+      "created_at": "2026-11-21T23:50:56+03:00",
+      "expires_at": "2026-11-22T00:00:00+03:00",
+      "record": {
+        "name": "Питер Найджел Флак (Peter Nigel Fluck)",
+        "occupation": "Британский художник-карикатурист и создатель кукол",
+        "known_for": "Вместе с Роджером Лоу создал сатирическое телешоу Spitting Image. С 1984 по 1996 год в эфир вышли 18 сезонов с кукольными карикатурами на политиков и знаменитостей.",
+        "death_date": "2026-11-21",
+        "region": "Мир",
+        "sources": [
+          {
+            "url": "https://www.theguardian.com/tv-and-radio/2026/nov/21/peter-fluck-caricaturist-puppeteer-co-created-spitting-image-dies-aged-85"
           }
         ]
       }
