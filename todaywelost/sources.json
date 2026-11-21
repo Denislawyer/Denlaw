@@ -224,7 +224,6 @@
       "name": "Associated Press",
       "aliases": [
         "Associated Press",
-        "AP",
         "AP News"
       ],
       "basis_url": "https://apnews.com/article/bahrain-nabeel-rajab-arab-spring-rights-b037ae40a69a0f78a4e4eed36bb6e58f",
@@ -313,8 +312,7 @@
       "kind": "media",
       "name": "Челнинские известия",
       "aliases": [
-        "Челнинские известия",
-        "ЧИ"
+        "Челнинские известия"
       ],
       "basis_url": "https://chelny-izvest.ru/news/facts/v-celnax-skoncalsia-glava-upravleniia-obshhestvennogo-poriadka",
       "reason": "Лично прочитан оригинал от 21 ноября 2026 с явной датой смерти Мудариса Минегалиева, биографией и сообщением коллег и руководства города. Принадлежность редакции АО «ТАТМЕДИА» подтверждена выходными данными сайта."
@@ -324,8 +322,7 @@
       "kind": "media",
       "name": "Костанайские новости",
       "aliases": [
-        "Костанайские Новости",
-        "КН"
+        "Костанайские Новости"
       ],
       "basis_url": "https://kstnews.kz/ushel-iz-zhizni-zasluzhennyj-trener-kazahstana-po-boksu-vladimir-shajrer/",
       "reason": "Лично прочитан оригинал корреспондента Фарида Дандыбаева с датой смерти Владимира Шайрера 21 ноября 2026, биографией и соболезнованиями акима Рудного. Принадлежность ТОО «Костанайские Новости» проверена в разделе редакции."
