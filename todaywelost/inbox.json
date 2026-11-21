@@ -3,23 +3,6 @@
   "channel": "@todaywelost",
   "entries": [
     {
-      "id": "0651701effc9826894465aaa5f3ebe6135f431c717009f49640fbe40a8f2831e",
-      "created_at": "2026-11-13T20:16:03.603526+03:00",
-      "expires_at": "2026-11-13T22:16:03.603526+03:00",
-      "record": {
-        "name": "Захиди Зайнул Абидин",
-        "occupation": "Малайзийский политик",
-        "known_for": "Бывший заместитель министра связи и мультимедиа Малайзии (2020–2022); депутат парламента от Паданг-Бесара в 2013–2022 годах.",
-        "death_date": "2026-11-13",
-        "region": "Мир",
-        "sources": [
-          {
-            "url": "https://www.sinarharian.com.my/article/804468/berita/semasa/bekas-timbalan-menteri-komunikasi-dan-multimedia-zahidi-meninggal-dunia"
-          }
-        ]
-      }
-    },
-    {
       "id": "dc976e028fa33c025b056df5cf5490e2a0a5033c969ff67c92a72f09bd97ac3d",
       "created_at": "2026-11-13T21:41:34.287663+03:00",
       "expires_at": "2026-11-13T23:41:34.287663+03:00",
@@ -338,6 +321,23 @@
         "sources": [
           {
             "url": "https://chelny-izvest.ru/news/facts/v-celnax-skoncalsia-glava-upravleniia-obshhestvennogo-poriadka"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1971ba0518aa69dc2fdd1b9dc0a2b5da56d51db6a85d2deda917a348d724ea19",
+      "created_at": "2026-11-21T16:22:58.778521+03:00",
+      "expires_at": "2026-11-21T18:22:58.778521+03:00",
+      "record": {
+        "name": "Владимир Иванович Шайрер",
+        "occupation": "Казахстанский боксёр и тренер, заслуженный тренер Республики Казахстан",
+        "known_for": "Подготовил 45 мастеров спорта по боксу; наставник двукратного бронзового призёра Олимпийских игр Ивана Дычко. Почётный гражданин Рудного.",
+        "death_date": "2026-11-21",
+        "region": "Мир",
+        "sources": [
+          {
+            "url": "https://kstnews.kz/ushel-iz-zhizni-zasluzhennyj-trener-kazahstana-po-boksu-vladimir-shajrer/"
           }
         ]
       }
